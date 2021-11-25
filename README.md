@@ -1,5 +1,5 @@
 # Automatic authentication for the wifi of the China Pharmaceutical University
-## 通过快捷指令实现校园Wi-Fi一键连接
+## 通过快捷指令实现中国药科大学校园Wi-Fi一键连接
 
 iOS快捷指令连接：<https://www.icloud.com/shortcuts/c8d7686756f44f7e8c5b23906e84f939>
 
