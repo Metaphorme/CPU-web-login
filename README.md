@@ -1,4 +1,4 @@
-# Automatic authentication for the public wifi of CPU
+# Automatic Authentication for the Public Wi-Fi of CPU
 ## 通过快捷指令实现校园Wi-Fi一键连接
 
 iOS快捷指令链接：<https://www.icloud.com/shortcuts/3fe6262e48cc4c83ba0187134559acd5>
@@ -15,9 +15,9 @@ iOS快捷指令链接：<https://www.icloud.com/shortcuts/3fe6262e48cc4c83ba0187
 打开快捷指令 —> 自动化 —> 创建个人自动化 —> 选择“无线局域网” —> 选取“CPU”，不是“.CPU” —> 点击右上方完成，下一步 —> 添加操作 —> App —> 快捷指令 —> 运行快捷指令 —> 点击方框中浅色的“快捷指令” —> 选择“连接CPU” —> 下一步 —> 完成
 
 ### 更新日志：
- #### 1.1版本 
- 增加了所处网段的判断。解决了由于CPU的dhcp服务器拥堵而导致无法及时分配IP而降低用户体验的bug。 感谢issues [@LucienShaw](https://github.com/LucienShaw)  
- **注意：由于进行了增量更新，请移除之前的脚本并按相同的方法重新安装**
+#### 1.1版本 
+增加了所处网段的判断。解决了由于CPU的dhcp服务器拥堵而导致无法及时分配IP而降低用户体验的bug。 感谢issues [@lucienshawls](https://github.com/lucienshawls)  
+**注意：由于进行了增量更新，请移除之前的脚本并按相同的方法重新安装**
  
 #### 如果遇到问题，请留下你的issues
 #### 如果你觉得该脚本对你有帮助，欢迎你给我点个Star，谢谢你啦！🍺🍺
